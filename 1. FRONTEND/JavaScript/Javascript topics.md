@@ -15,6 +15,7 @@ Basic:
 6. null check in Javascript - ?.
 7. typeof operator
 8. delete operator
+9. Scope: Global scope, function scope, block scope
 
 ---
 
